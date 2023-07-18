@@ -1,7 +1,7 @@
 {
-  "name": "raganork-md",
+  "name": "Nezuka",
   "version": "4.0.0",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "Nezuka whatsapp bot- Multi device version.",
   "scripts": {
     "start": "pm2 start . --attach --name Raganork"
   },
@@ -14,8 +14,8 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Nezuka",
+  "developer": "Nezuka",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
   "dependencies": {
